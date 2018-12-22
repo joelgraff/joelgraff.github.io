@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://example.org/faq/what-is-linux/</loc>
+    <lastmod>2018-12-16T08:08:15-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://example.org/quick_start/</loc>
     <lastmod>2018-12-16T08:08:08-06:00</lastmod>
   </url>
@@ -13,7 +18,42 @@
   </url>
   
   <url>
+    <loc>http://example.org/faq/is-linux-better/</loc>
+    <lastmod>2018-12-16T08:08:15-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://example.org/faq/</loc>
+    <lastmod>2018-12-16T08:08:15-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/faq/is-linux-secure/</loc>
+    <lastmod>2018-12-16T08:08:15-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/faq/use-other-os/</loc>
+    <lastmod>2018-12-16T08:08:15-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/faq/alternative-apps/</loc>
+    <lastmod>2018-12-16T08:08:15-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/faq/update-os/</loc>
+    <lastmod>2018-12-16T08:08:15-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/faq/upgrade-system/</loc>
+    <lastmod>2018-12-16T08:08:15-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/faq/get-support/</loc>
     <lastmod>2018-12-16T08:08:15-06:00</lastmod>
   </url>
   
@@ -24,6 +64,7 @@
   
   <url>
     <loc>http://example.org/</loc>
+    <lastmod>2018-12-16T08:08:15-06:00</lastmod>
     <priority>0</priority>
   </url>
   

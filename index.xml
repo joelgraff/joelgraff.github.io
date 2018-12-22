@@ -6,9 +6,92 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 16 Dec 2018 08:08:15 -0600</lastBuildDate>
     
 	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>What is Linux?</title>
+      <link>http://example.org/faq/what-is-linux/</link>
+      <pubDate>Sun, 16 Dec 2018 08:08:15 -0600</pubDate>
+      
+      <guid>http://example.org/faq/what-is-linux/</guid>
+      <description>Linux is an operating system, much like Windows or OSX (MacOS). It&amp;rsquo;s used in most web servers, powers the top 500 supercomputers in the world, widely used in military applications, drones and Internet of Things (IoT) devices. It&amp;rsquo;s also what drives Android phones and Chromebooks.
+Best of all, it&amp;rsquo;s a great desktop operating system for new nad old computers alike.
+So, what makes it different?
+Linux is Open Source Software. It&amp;rsquo;s developed by a large community made up of unpaid volunteers and paid corporate developers.</description>
+    </item>
+    
+    <item>
+      <title>Is Linux Better?</title>
+      <link>http://example.org/faq/is-linux-better/</link>
+      <pubDate>Sun, 16 Dec 2018 08:08:15 -0600</pubDate>
+      
+      <guid>http://example.org/faq/is-linux-better/</guid>
+      <description>That depends on who you ask. &amp;ldquo;Better&amp;rdquo; is a really relative term.
+It&amp;rsquo;s important to understand that no operating system is perfect, and Linux is no exception.
+If you want an experience that &amp;ldquo;just works&amp;rdquo;, Apple products are better. Because Apple keeps very tight control over who develops software and what hardware they sell, they can tightly integrate the software and hardware, making for a good user experience. The drawback? Their hardware is expensive.</description>
+    </item>
+    
+    <item>
+      <title>Is Linux Secure?</title>
+      <link>http://example.org/faq/is-linux-secure/</link>
+      <pubDate>Sun, 16 Dec 2018 08:08:15 -0600</pubDate>
+      
+      <guid>http://example.org/faq/is-linux-secure/</guid>
+      <description>In a word: no. No operating system is &amp;ldquo;secure&amp;rdquo; in a perfect sense.
+But is it more secure than Windows? Absolutely. Because Windows is the dominant operating system (around 88% - 90% market share), most malicious software targets Windows, not Linux. This gives Linux an advantage that, in the security world, is known as &amp;ldquo;security by obscurity&amp;rdquo;. It&amp;rsquo;s not real security,.Still, being less popular does have it&amp;rsquo;s advantages.
+Leaving that aside, however, Linux is inherently more secure in the way the operating system itself runs and the permissions it requires to install software or perform other actions which could otherwise compromise the computer.</description>
+    </item>
+    
+    <item>
+      <title>Can I Use Windows / Mac Apps?</title>
+      <link>http://example.org/faq/use-other-os/</link>
+      <pubDate>Sun, 16 Dec 2018 08:08:15 -0600</pubDate>
+      
+      <guid>http://example.org/faq/use-other-os/</guid>
+      <description>Yes and no. In reality, it&amp;rsquo;s best to think of Linux being compatible with Windows like OSX / MacOS is. That is, they are not compatible. At all.
+Nevertheless, you can achieve compatibiltiy in a few ways:
+ Use web-based applications. Browsers like Firefox, Chrome, and Opera are available on all operating systems. Thus, if a web application works in one of these browsers, it should not matter what operating system you&amp;rsquo;re running.</description>
+    </item>
+    
+    <item>
+      <title>What About Alternative Applications?</title>
+      <link>http://example.org/faq/alternative-apps/</link>
+      <pubDate>Sun, 16 Dec 2018 08:08:15 -0600</pubDate>
+      
+      <guid>http://example.org/faq/alternative-apps/</guid>
+      <description>There are many free / open source alternatives to most Windows-only software. The functions may not be the same, and they may behave very differently, but there are usually options.
+If you want to know what&amp;rsquo;s available, the first place to go is the Software Center. There, you can look up applications by their type (like Office software, or Internet software), and install them directly - no need to download anything from a website.</description>
+    </item>
+    
+    <item>
+      <title>How Do I Update Linux?</title>
+      <link>http://example.org/faq/update-os/</link>
+      <pubDate>Sun, 16 Dec 2018 08:08:15 -0600</pubDate>
+      
+      <guid>http://example.org/faq/update-os/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Do I need to Upgrade My System?</title>
+      <link>http://example.org/faq/upgrade-system/</link>
+      <pubDate>Sun, 16 Dec 2018 08:08:15 -0600</pubDate>
+      
+      <guid>http://example.org/faq/upgrade-system/</guid>
+      <description>As a rule, no. While Windows, over time, grows increasingly resource-hungry, demanding users upgrade their hardware (though this is less true than it used to be), Linux will never require that. That doesn&amp;rsquo;t mean you shouldn&amp;rsquo;t upgrade your hardware, and it&amp;rsquo;s important to remember that older hardware is more prone to failure, simply because it is older. Nevertheless, so long as your computer runs, it will always be able to run Linux.</description>
+    </item>
+    
+    <item>
+      <title>Where Can I Get Support?</title>
+      <link>http://example.org/faq/get-support/</link>
+      <pubDate>Sun, 16 Dec 2018 08:08:15 -0600</pubDate>
+      
+      <guid>http://example.org/faq/get-support/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
